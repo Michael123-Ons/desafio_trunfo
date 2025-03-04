@@ -22,7 +22,7 @@ Carta criarCarta1(){
         38,
         675.41,
         210000000000LL
-    }; // <-- FALTAVA O PONTO E VÍRGULA AQUI
+    }; 
     return c;
 }
 
