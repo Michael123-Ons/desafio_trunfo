@@ -19,7 +19,7 @@ int main() {
         "Santa Catarina",    // Estado
         537210,              // População
         675.41,              // Área
-        2100000000000.0,     // PIB (usar .0 para garantir que é float)
+        2100000000000.0,     // PIB 
         38                   // Pontos turísticos
     };
 
