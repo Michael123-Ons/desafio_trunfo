@@ -9,8 +9,8 @@ struct Carta {
     float area;      // Área em km²
     float pib;       // PIB em reais
     int turisticos;  // Número de pontos turísticos
-    float densidade; // Densidade populacional (calculada)
-    float percapita; // PIB per capita (calculado)
+    float densidade; // Densidade populacional 
+    float percapita; // PIB per capita 
 };
 
 int main() {
