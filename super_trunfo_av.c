@@ -2,7 +2,7 @@
 
 // Definição da estrutura Carta
 struct Carta {
-    char codigo[4];  // Código como string (3 caracteres + \0)
+    char codigo[4];  // Código como string 
     char cidade[50]; // Nome da cidade como string
     char estado[50]; // Nome do estado como string
     int populacao;   // População
@@ -21,7 +21,7 @@ int main() {
         "Santa Catarina",    // Estado
         537210,              // População
         675.41,              // Área
-        2100000000000.0,     // PIB (usar .0 para garantir que é float)
+        2100000000000.0,     // PIB 
         38,                  // Pontos turísticos
         0,                   // Será calculado depois
         0                    // Será calculado depois
